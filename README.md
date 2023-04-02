@@ -1,1 +1,2 @@
-# OOP-Android-StepCounter-App
+Android-StepCounter-App
+Everyone is concerned about their health nowadays, and their health is directly proportional to their diet and exercise. As a result, we present to you a system that tracks your health in areas: step counter and bmi calculator.The user must enter his age, height, weight, and gender when registering in the system. To determine his BMI , the user must enter his height and weight. In this scenario, the Step Counter obtains input for counting steps from the accelerometer sensor.
